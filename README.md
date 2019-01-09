@@ -1,1 +1,1 @@
-"Esto es para el git"
+"Instrucciones del proyecto"
